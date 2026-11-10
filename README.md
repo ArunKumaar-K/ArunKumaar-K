@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,100:142D52&height=180&section=header&text=ARUN%20K&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=68&animation=fadeIn" width="100%" alt="Arun K"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,100:142D52&height=180&section=header&text=ARUN%20K&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20CYBER%20%SECURITY%20ENGINEER&descSize=15&descAlignY=68&animation=fadeIn" width="100%" alt="Arun K"/>
 
 <br/>
 
