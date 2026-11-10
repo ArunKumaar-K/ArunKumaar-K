@@ -164,7 +164,7 @@ An educational network scanning application.
 - Network Anomaly Detection System — ICAIT 2025.
 - GarudanEye Threat Detection & Response Platform — IEEE ICSSAS 2026.
 
-🏅 TryHackMe — Top %.
+🏅 TryHackMe — Top 1%.
 
 ---
 
