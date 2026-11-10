@@ -138,23 +138,21 @@ An educational network scanning application.
   <i>A snapshot of my development activity</i>
 </p>
 
+
+<h2 align="center">GitHub Analytics</h2>
+
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=ArunKumaar-K&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
-alt="GitHub Statistics"/>
+<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumaar-K&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-alt="Most Used Languages"/>
+<img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=ArunKumaar-K&theme=transparent&hide_border=true&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6"
-alt="GitHub Contribution Streak"/>
+<img width="70%" src="./profile/streak.svg" alt="Contribution Streak"/>
 
 </div>
+
 
 <p align="center">
   <sub>Consistent learning. Continuous building. Steady progress.</sub>
