@@ -1,164 +1,118 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- =============== HEADER =============== -->
 
 <div align="center">
 
-
-<!-- ================= HERO BANNER ================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=ARUN%20K&fontSize=65&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=62&animation=fadeIn"
-    width="100%"
-    alt="Arun K - Java Backend Developer"
-  />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,100:142D52&height=180&section=header&text=ARUN%20K&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=68&animation=fadeIn" width="100%" alt="Arun K"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MySQL;Software+Engineering+%2B+Security;Turning+Ideas+Into+Working+Solutions" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Java+%7C+Spring+Boot+%7C+MySQL;Building+Reliable+Backend+Applications;Exploring+Application+Security" alt="Developer introduction"/>
 
 <br/>
 
 <a href="https://github.com/ArunKumaar-K">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/arun-k-05074b285">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:arunkumaarksa1@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ArunKumaar-K&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## About Me
 
-```java
-public class ArunK {
+I'm **Arun K**, a 2026 B.E. Cyber Security graduate with a strong interest in Software Engineering and Java Backend Development.
 
-    String name = "Arun K";
-    String role = "Java Backend Developer";
-    String education = "B.E. Cyber Security (2026)";
-    String location = "Tamil Nadu, India";
+I enjoy building practical applications, exploring backend technologies and understanding how to develop secure and reliable software.
 
-    String[] interests = {
-        "Software Engineering",
-        "Backend Development",
-        "Application Security"
-    };
-
-    String[] currentlyLearning = {
-        "Java",
-        "Spring Boot",
-        "Data Structures & Algorithms",
-        "SQL"
-    };
-
-    void goal() {
-        System.out.println(
-            "Build reliable software. Learn continuously."
-        );
-    }
-}
-```
-
-I am an aspiring Software Engineer with a background in Cyber Security and an interest in developing reliable backend applications.
-
-I enjoy learning technologies, solving programming problems and building practical projects. My long-term interest is combining software engineering with application security.
+- 💻 **Focus:** Java Backend Development
+- 🌱 **Learning:** Spring Boot, DSA and SQL
+- 🔐 **Interest:** Application Security & Secure Coding
+- 🎓 **Education:** B.E. Cyber Security, 2026
+- 📍 **Location:** Tamil Nadu, India
 
 ---
 
-## `02` — TECHNICAL ARSENAL
+## Technical Skills
 
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" alt="Programming skills"/>
-
-### BACKEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" alt="Backend skills"/>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend skills"/>
-
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,docker&theme=dark" alt="Development tools"/>
+| Category | Technologies |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman&theme=dark" height="40" /> |
 
 </div>
 
 ---
 
-## `03` — SELECTED PROJECTS
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>01. E-Commerce Backend</h3>
+### 🛒 E-Commerce Backend
 
-**Java • Spring Boot • MySQL**
+**Java · Spring Boot · MySQL**
 
-A backend application designed to manage e-commerce operations.
+A backend application for e-commerce operations.
 
-- Product management
-- Cart and order APIs
+- Product and cart management
+- Order management APIs
 - Spring Data JPA
 - JWT authentication
-- Role-based access control
+- Role-based authorization
 
-<a href="https://github.com/ArunKumaar-K/Ecommerce_Backend">↗ Explore Repository</a>
+[View Project →](https://github.com/ArunKumaar-K/Ecommerce_Backend)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>02. Network Anomaly Detection</h3>
+### 📡 Network Anomaly Detection
 
-**Python • ML • Deep Learning**
+**Python · Machine Learning · Flask**
 
-A machine learning-based network anomaly detection project.
+A machine learning-based network anomaly detection system.
 
 - CICIDS2017 dataset
 - CNN and LSTM
 - Autoencoder
-- Flask dashboard
+- Detection visualization
 
-<a href="https://github.com/ArunKumaar-K/Network-Anomaly-Detection-System1">↗ Explore Repository</a>
+[View Project →](https://github.com/ArunKumaar-K/Network-Anomaly-Detection-System1)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>03. CyberTool</h3>
+### 🛡️ CyberTool
 
-**Python • Cybersecurity**
+**Python · Cybersecurity**
 
-An educational all-in-one cybersecurity toolkit.
+An educational cybersecurity toolkit combining multiple utilities.
 
 - Security utilities
 - Network analysis
 - Automation
-- Learning and experimentation
+- Practical security learning
 
-<a href="https://github.com/ArunKumaar-K/CyberTool-All-in-One-Cybersecurity-Toolkit">↗ Explore Repository</a>
+[View Project →](https://github.com/ArunKumaar-K/CyberTool-All-in-One-Cybersecurity-Toolkit)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>04. Network Security Scanner</h3>
+### 🌐 Network Security Scanner
 
-**Python • TCP • Networking**
+**Python · TCP · Networking**
 
 An educational network scanning application.
 
@@ -167,7 +121,7 @@ An educational network scanning application.
 - CIDR scanning
 - JSON and CSV reports
 
-<a href="https://github.com/ArunKumaar-K/Educational-Network-Security-Scanner">↗ Explore Repository</a>
+[View Project →](https://github.com/ArunKumaar-K/Educational-Network-Security-Scanner)
 
 </td>
 </tr>
@@ -175,70 +129,64 @@ An educational network scanning application.
 
 ---
 
-## `04` — GITHUB ACTIVITY
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunKumaar-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArunKumaar-K&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumaar-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumaar-K&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top languages"/>
 
-<br/><br/>
+<br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ArunKumaar-K&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=9B72CF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=ArunKumaar-K&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## `05` — EDUCATION & ACHIEVEMENTS
+## Education & Achievements
 
-🎓 **Bachelor of Engineering – Cyber Security**
-
-Mahendra Engineering College | 2022–2026
+🎓 **B.E. Cyber Security** — Mahendra Engineering College (2022–2026)
 
 📄 Research publications:
-- Network Anomaly Detection System – ICAIT 2025.
-- GarudanEye Threat Detection & Response Platform – IEEE ICSSAS 2026.
+- Network Anomaly Detection System — ICAIT 2025.
+- GarudanEye Threat Detection & Response Platform — IEEE ICSSAS 2026.
 
-🛡️ TryHackMe – Top 2%
-
-💻 Hands-on experience in Java development, Python programming and cybersecurity projects.
+🏅 TryHackMe — Top 2%.
 
 ---
 
-## `06` — CURRENT FOCUS
+## Currently Learning
 
-```text
-[01] Strengthening Core Java and OOP
-[02] Practicing Data Structures & Algorithms
-[03] Learning Spring Boot and REST APIs
-[04] Improving SQL and Database Design
-[05] Exploring OWASP and Application Security
-```
+- Core Java and Object-Oriented Programming
+- Data Structures and Algorithms
+- Spring Boot and REST API development
+- SQL and database design
+- OWASP Top 10 and Application Security
 
 ---
 
-## `07` — LET'S CONNECT
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arun-k-05074b285">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/ArunKumaar-K">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+<a href="https://tryhackme.com/p/ArunKevil.flags">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme"/>
 </a>
 
 <a href="mailto:arunkumaarksa1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br/><br/>
 
-**"Code with purpose. Build with passion. Secure by design."**
+**Building today. Improving tomorrow.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,50:101D36,100:243B70&height=110&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,100:142D52&height=65&section=footer" width="100%" alt="Footer"/>
 
 </div>
