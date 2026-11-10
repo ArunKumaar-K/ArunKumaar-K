@@ -129,19 +129,39 @@ An educational network scanning application.
 
 ---
 
-## GitHub Statistics
+
+<!-- ============== GITHUB ANALYTICS ============== -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <i>A snapshot of my development activity</i>
+</p>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArunKumaar-K&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub statistics"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=ArunKumaar-K&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
+alt="GitHub Statistics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumaar-K&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top languages"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumaar-K&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=ArunKumaar-K&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF" alt="Contribution streak"/>
+<img width="70%"
+src="https://streak-stats.demolab.com?user=ArunKumaar-K&theme=transparent&hide_border=true&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6"
+alt="GitHub Contribution Streak"/>
 
 </div>
+
+<p align="center">
+  <sub>Consistent learning. Continuous building. Steady progress.</sub>
+</p>
+
+---
+
 
 ---
 
