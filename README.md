@@ -2,7 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090E1A,50:101D36,100:243B70&height=200&section=header&text=ARUN%20K&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20JAVA%20BACKEND%20DEVELOPER&descSize=15&descAlignY=72&animation=fadeIn" width="100%" alt="Arun K Developer Banner"/>
+
+<!-- ================= HERO BANNER ================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=ARUN%20K&fontSize=65&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=62&animation=fadeIn"
+    width="100%"
+    alt="Arun K - Java Backend Developer"
+  />
+</p>
+
 
 <br/>
 
