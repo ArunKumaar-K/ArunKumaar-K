@@ -129,34 +129,43 @@ An educational network scanning application.
 
 ---
 
+<!-- ========== DEVELOPER ANALYTICS ========== -->
 
-<!-- ============== GITHUB ANALYTICS ============== -->
-
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">📊 Developer Analytics</h2>
 
 <p align="center">
-  <i>A snapshot of my development activity</i>
+  <i>My GitHub activity and development journey</i>
 </p>
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
+<img
+  src="./profile/stats.svg"
+  width="49%"
+  alt="GitHub Statistics"
+/>
 
-<img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Most Used Languages"
+/>
 
 <br/><br/>
 
-<img width="70%" src="./profile/streak.svg" alt="Contribution Streak"/>
+<img
+  src="./profile/streak.svg"
+  width="70%"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
-
 <p align="center">
-  <sub>Consistent learning. Continuous building. Steady progress.</sub>
+  <sub>Learning • Building • Improving</sub>
 </p>
 
 ---
-
 
 ---
 
