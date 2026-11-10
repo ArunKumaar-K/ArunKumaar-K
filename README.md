@@ -138,9 +138,6 @@ An educational network scanning application.
   <i>A snapshot of my development activity</i>
 </p>
 
-
-<h2 align="center">GitHub Analytics</h2>
-
 <div align="center">
 
 <img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
