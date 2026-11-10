@@ -167,6 +167,23 @@ An educational network scanning application.
 
 ---
 
+
+<!-- ============== CONTRIBUTION ACTIVITY ============== -->
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ArunKumaar-K/ArunKumaar-K/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+---
+
+
+
 ---
 
 ## Education & Achievements
